@@ -5,8 +5,8 @@ Binary Classification For Stock Price using LSTM (Long-Short-Term-Memory)
 
 Goals of this project:
 
-Explore Time Series Data
-
 Data Science and analytics
 
 Build LSTM Model
+
+Explore Time Series Data
